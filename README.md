@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakthi0803
 - 👀 I’m interested in Frontend web development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently working as React js Developer
 - 💞️ I’m looking to collaborate on Frontend development
 - 📫 How to reach me sakthivs1404@gmail.com
 
