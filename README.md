@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @sakthi0803
-- 👀 I’m interested in Frontend web development
-- 🌱 I’m currently working as React js Developer
-- 💞️ I’m looking to collaborate on Frontend development
-- 📫 How to reach me sakthivs1404@gmail.com
-
 <h1 align="center">Hi 👋, I'm Sakthivel Saravanan</h1>
-<h3 align="center">A passionate React JS developer from India</h3>
+<h3 align="center">I’m interested in Frontend web development & currently working as React js Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthi0803&label=Profile%20views&color=0e75b6&style=flat" alt="sakthi0803" /> </p>
 
