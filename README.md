@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakthi0803" alt="sakthi0803" /></a> </p>
 
-- 🔭 I’m currently working on [Kwickmetrics](web.kwickmetrics.com)
+- 🔭 I’m currently working on <a href="https://web.kwickmetrics.com">Kwickmetrics</a>
 
 - 🌱 I’m currently learning **MERN STACK Development**
 
